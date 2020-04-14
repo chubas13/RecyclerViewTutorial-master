@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sabrosipollos</string>
+    <string name="version_name">Version: %1$s</string>
+    <string name="version_level">Api Level: %1$s</string>
+
+    <string name="precio_producto">Precio: %1$s</string>
+    <string name="des_producto">%1$s</string>
+</resources>
